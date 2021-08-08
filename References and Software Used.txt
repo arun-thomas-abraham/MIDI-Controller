@@ -1,0 +1,18 @@
+References for Prototypes:
+https://www.instructables.com/id/Quick-Fruit-Piano/
+https://github.com/arpruss/capacitive-piano-Arduino
+https://www.instructables.com/id/Arduino-Touch-capacitive-Midi-keyboard/
+https://www.instructables.com/id/Draw-It-Yourself/
+https://github.com/FortySevenEffects/arduino_midi_library/
+
+References for Final Version:
+http://bvavra.github.io/MIDI_Accordion/sending-midi/
+https://bvavra.github.io/MIDI_Accordion/midi-playback/
+https://github.com/bvavra/MIDI_Accordion/tree/master/Prototypes/MIDI_Tutorial
+https://github.com/Uberi/Anana
+https://www.pygame.org/docs/ref/midi.html
+
+Software for Prototypes and Final Version:
+http://projectgus.github.io/hairless-midiserial/
+http://www.tobias-erichsen.de/software/loopmidi.html
+http://vmpk.sourceforge.net/
